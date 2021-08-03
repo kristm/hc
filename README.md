@@ -10,7 +10,7 @@ hc <hex color>
 
 ### Screenshot
 
-![Screenshot](hc.png)
+<img src="hc.png" alt="Screenshot" width="500"/>
 
 ### Requirements
 
